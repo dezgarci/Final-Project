@@ -10,6 +10,8 @@ Week 1 Tasks
     Organize Data Wrangling Notes - Done
     Complete Lesson 1 in Exeter LMS - Done
 Week 2 Tasks
-    Data Wrangling in R and Python for dataset(s) - ongoing
-    Meet with Instructor - Tuesdays 6 MST
-    Update GitHub - ongoing
+    Data Wrangling inPython for dataset(s) - Done
+    Create .csv of cleaned/wrangled data for possible use in R - Done
+    Meet with Instructor - Tuesdays 6 MST - Done
+    Update GitHub - Done
+    Complete Lesson 1 in Exeter LMS - Done
