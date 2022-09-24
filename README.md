@@ -34,4 +34,13 @@ Week 4 Tasks
     What I did well this week - spent the most time working on my project thus far, kept on track,
         made some progress with my analyses and wrangling
     What to improve upon - take more breaks when needed
-    
+Week 5 Tasks
+    Begin to build presentation:
+        Follow through LMS Lesson 5 - Done
+        Decide which analyses you will include in the presentation - Done
+        Create complete plots/graphics - Done
+        Check out at least 2 full presentations given by former students - Done
+        Meet with mentor(s) - Done
+        Practice presentation 
+Week 6 Task: Present
+        
